@@ -43,6 +43,8 @@ h1{
     margin-top: 4vh;
     height: 50vh;
     width: 60vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
     display: flex;
     /* margin-left: 21vh; */
     /* justify-content: center; */
@@ -55,6 +57,8 @@ h1{
     justify-content: center;
     height: 15vh;
     width: 60vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
     display: flex;
     flex-direction: row;
     column-gap: 4vh;
@@ -62,6 +66,9 @@ h1{
 }
 .output-section{
     height:20vh;
+    width: 70vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
     background-color: palevioletred;
 }
 .label{
@@ -75,7 +82,7 @@ h1{
 }
 
 .buttons{
-    width: 15vw;
+    width: 18vw;
     height: 6vh;
     border-radius: 0.52vw;
     font-size: 2.5vh;
