@@ -80,6 +80,11 @@ h1{
     width: 8vh;
     border-radius: 0.52vw;
 }
+.result-textbox{
+    height: 4vh;
+    width: 15vh;
+    border-radius: 0.52vw;
+}
 
 .buttons{
     width: 18vw;
