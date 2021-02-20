@@ -29,7 +29,7 @@ h1{
 .main-container{
     /* background-color: aqua; */
     width: 80vw;
-    height: 90vh;
+    height: 80vh;
     display: flex;
     flex-direction: column;
     background-color:#daded4;
@@ -55,7 +55,7 @@ h1{
 }
 .action-items{
     justify-content: center;
-    height: 15vh;
+    height: 12vh;
     width: 60vw;
     margin-left: 10vw;
     margin-right: 10vw;
@@ -65,7 +65,7 @@ h1{
     background-color: rgb(27, 204, 107);
 }
 .output-section{
-    height:20vh;
+    height:15vh;
     width: 70vw;
     margin-left: 10vw;
     margin-right: 10vw;
