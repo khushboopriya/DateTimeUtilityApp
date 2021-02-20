@@ -28,7 +28,7 @@ h1{
 
 .main-container{
     /* background-color: aqua; */
-    width: 60vw;
+    width: 80vw;
     height: 90vh;
     display: flex;
     flex-direction: column;
@@ -42,7 +42,7 @@ h1{
 .input-section{
     margin-top: 4vh;
     height: 50vh;
-    width: 30vw;
+    width: 60vw;
     display: flex;
     /* margin-left: 21vh; */
     /* justify-content: center; */
@@ -54,7 +54,7 @@ h1{
 .action-items{
     justify-content: center;
     height: 15vh;
-    width: 30vw;
+    width: 60vw;
     display: flex;
     flex-direction: row;
     column-gap: 4vh;
